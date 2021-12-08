@@ -1,8 +1,8 @@
 ## 镜像
 
-本镜像基于alpine:3.9.5
+本镜像基于alpine:3.15.0
 
-二进制可执行文件在此镜像下编译生成，可能不适用于其他镜像
+二进制可执行文件为官方版，可能不适用于其他镜像
 
 [Deploy](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FToSeeAll%2Fcloud)
 
