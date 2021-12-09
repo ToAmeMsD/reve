@@ -11,3 +11,4 @@
 #HashIDSalt = S1Y1KO3CdHQwGg1nNrJ7vmOA0QWobt38wf97pG6ZPcfLDaxc8umyJC9y0bmsCkJX
 #EOF
 /root/cloudreve/cloudreve -c /root/cloudreve/mycloudreve.ini
+#/root/cloudreve/cloudreve
