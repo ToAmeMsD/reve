@@ -32,7 +32,10 @@
     "DATABASE_NAME": {
       "description": "DATABASE_NAME",
       "value": "MyEnv value"
-    }
+    },"DATABASE_TYPE": {
+      "description": "DATABASE_TYPE",
+      "value": "MyEnv value"
+    },
   },
   "website": "https://blog.toame.tk/",
   "repository": "https://github.com/ToSeeAll/cloud",
