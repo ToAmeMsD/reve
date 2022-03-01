@@ -11,7 +11,7 @@ SessionSecret = ${SESSION_SECRET}
 HashIDSalt = ${HASH_ID_SALT}
 [Database]
 ; 数据库类型，目前支持 sqlite/mysql/mssql/postgres
-Type = postgres
+Type = ${DATABASE_TYPE}
 ; MySQL 端口
 Port = ${DATABASE_PORT}
 ; 用户名
